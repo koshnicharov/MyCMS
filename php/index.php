@@ -1,13 +1,15 @@
 <?php
-    $Title = 'Забранен достъп';
-?>
-
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/html/header.php'); ?>
-
-<?php
+    
+	$Title = 'Забранен достъп';
+	
+	include($_SERVER['DOCUMENT_ROOT'] . '/html/header.php');
+	
+	
     
     refresh('../index.php');
-    
-?>
+	
+	
+	
+	include($_SERVER['DOCUMENT_ROOT'] . '/html/footer.php'); 
 
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/html/footer.php'); ?>
+?>

@@ -1,6 +1,6 @@
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/php/core.php'); ?>
 <!DOCTYPE html>
 <html>
-<?php require_once($_SERVER['DOCUMENT_ROOT'] . '/php/core.php'); ?>
 <head>
 <link rel="shortcut icon" type="image/png" href="<?php echo basicLink() . '/'; ?>img/favicon.png">
 <link rel="stylesheet" type="text/css" href="<?php echo basicLink() . '/'; ?>css/design.css">
