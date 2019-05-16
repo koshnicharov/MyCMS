@@ -1,8 +1,6 @@
 <?php
     $Title = 'Таен въпрос / таен отговор';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

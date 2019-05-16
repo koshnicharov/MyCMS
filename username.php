@@ -1,8 +1,6 @@
 <?php
     $Title = 'Смяна на потребителското име';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

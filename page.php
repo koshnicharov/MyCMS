@@ -1,8 +1,6 @@
 <?php
     $Title = 'Преглед страница';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

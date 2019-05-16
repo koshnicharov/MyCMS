@@ -1,8 +1,6 @@
 <?php
     $Title = 'Потребителски профил';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

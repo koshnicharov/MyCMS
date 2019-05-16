@@ -1,8 +1,6 @@
 <?php
     $Title = 'Възстановяване на достъпа';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

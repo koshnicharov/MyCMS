@@ -1,8 +1,6 @@
 <?php
     $Title = 'Търсене по ключови думи/изрази';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

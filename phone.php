@@ -1,8 +1,6 @@
 <?php
     $Title = 'Смяна на телефона';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

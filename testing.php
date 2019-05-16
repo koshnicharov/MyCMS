@@ -1,8 +1,6 @@
 <?php
     $Title = 'String Operations';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

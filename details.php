@@ -1,8 +1,6 @@
 <?php
     $Title = 'Лични данни';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

@@ -1,8 +1,6 @@
 <?php
     $Title = 'Членство';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     

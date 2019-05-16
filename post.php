@@ -1,8 +1,6 @@
 <?php
     $Title = 'Преглед на публикация';
-?>
-
-<?php include('html/header.php'); ?>
+	include('html/header.php'); ?>
 
 <?php
     
